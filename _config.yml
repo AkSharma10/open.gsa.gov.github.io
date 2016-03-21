@@ -3,11 +3,11 @@ description:      "GSA Open Technology"
 logo:             logo.png
 # disqus_shortname: codeinventorycom
 share:            true
-dropcap:	   true
+dropcap:     true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:        	 http://www.codeinventory.com
+url: ""          
 
 # Owner/author information
 owner:
@@ -22,7 +22,7 @@ owner:
   github:             
   instagram:      
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/+AmeyJadiye
+  google_plus:    
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -39,6 +39,8 @@ links:
     icon: home
   - title: Events
     url: /events
+  - title: APIs
+    url: /apis
   - title: About
     url: /about
 
